@@ -1,3 +1,4 @@
+import './Header.css';
 const Header = () => {
   return (
     <header style={{ textAlign: 'center', fontFamily: 'serif', padding: '20px', backgroundColor: '#f4f4f4' }}>
